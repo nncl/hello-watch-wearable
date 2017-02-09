@@ -8,3 +8,4 @@
 ## TO DO
 
 - Integrations above
+- Work with sensors
